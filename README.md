@@ -1,3 +1,29 @@
+# ClawWork
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+"ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+ClawWork：把 OpenClaw 当作 AI 同事使用的实践项目。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <img alt="image" src="assets/live_banner.png" /><div align="center">
   <h1>ClawWork: OpenClaw as Your AI Coworker</h1>
     <p>
